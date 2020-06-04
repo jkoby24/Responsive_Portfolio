@@ -1,0 +1,128 @@
+body {
+    position: relative;
+    padding-bottom: 58px;
+    min-height: 100vh;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+    font-size: 25px; 
+    margin-left: 30px;
+}
+
+
+.navbar-nav {
+    position: absolute;
+    right: 0px;
+    padding: 20px;
+
+}
+
+
+.container {
+    background: white; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+    margin-bottom: 30px;
+    
+}
+
+#aboutme {
+    padding-top: 98px;
+    padding-bottom: 101px;
+}
+
+.card {
+    margin-left: -20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+
+
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+.card img {
+    border-radius: 5px 5px 0 0;
+}
+
+#about .about-link {
+    padding-left: 0px;
+    
+}
+
+.github {
+    display: inline-block;
+    padding: 50px;
+}
+
+.youtube {
+    display: inline-block;
+    padding: 50px;
+}
+
+.linkedin {
+    display: inline-block; 
+    padding: 50px;
+}
+
+#aboutme .about-link li a i {
+    width: 50px;
+    height: 50px;
+    border-radius: 200%;
+    line-height: 200%;
+    text-align: center;
+    border: 1px solid;
+    border-color: crimson;  
+    font-size: 22px;
+    color: crimson;
+    transition: all .3s;
+}
+
+#aboutme .about-link li a i:hover {
+    color: 222222;
+    background: black; 
+}
+
+.form-group {
+    margin-top: 20px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.footer {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-bottom: -30px;
+}
+
+
+
+
+.footer {
+    padding: 20px; 
+    background-color: black;
+    color: white;
+    border-width: 100%;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+@media (min-width: 320px) {
+    .card {
+        margin-bottom: 50px;
+    }
+}
