@@ -7,4 +7,4 @@ Page 2: https://user-images.githubusercontent.com/63992346/83711660-d061e780-a5f
 
 Page 3: https://user-images.githubusercontent.com/63992346/83711659-d061e780-a5f1-11ea-8722-c7f48332b6f8.png
 
-Link to website: https://jkoby24.github.io/Responsive_Portfolio/
+Link to website: https://jkoby24.github.io/Responsive_Portfolio/https://jkoby24.github.io/Responsive_Portfolio/
